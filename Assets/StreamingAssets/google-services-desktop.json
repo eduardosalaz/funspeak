@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884784959320",
+    "project_id": "funspeak-834f4",
+    "storage_bucket": "funspeak-834f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884784959320:android:036fc0f6667d3949305f2d",
+        "android_client_info": {
+          "package_name": "com.fime.funspeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884784959320-k4kh49qg2pppd06mqit430c23uqh6uql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTcdaWfjr54grgKd3-HiGkKf6pO1_mm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884784959320-k4kh49qg2pppd06mqit430c23uqh6uql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
